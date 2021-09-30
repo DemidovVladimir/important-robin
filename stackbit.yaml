@@ -8,7 +8,6 @@ publishDir: public
 staticDir: static
 uploadDir: assets
 pagesDir: src/content/pages
-dataDir: src/util
 models:
   about:
     type: page
