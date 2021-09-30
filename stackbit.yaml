@@ -58,5 +58,5 @@ models:
         label: title
       - name: tagline
         type: string
-      - name: ''
+      - name: featuredImage
         type: string
