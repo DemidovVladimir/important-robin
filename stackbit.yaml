@@ -64,3 +64,4 @@ models:
       - name: cta
         type: object
         fields: []
+        label: cta
