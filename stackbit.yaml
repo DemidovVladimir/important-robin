@@ -44,3 +44,5 @@ models:
   index:
     type: page
     label: index
+    singleInstance: true
+    file: ''
