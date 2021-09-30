@@ -80,4 +80,5 @@ models:
   socialmedia:
     type: data
     label: socialmedia
-    match: socialmedia.json
+    singleInstance: true
+    file: ''
