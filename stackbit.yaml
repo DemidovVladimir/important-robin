@@ -15,5 +15,5 @@ models:
         type: string
       - name: slug
         type: slug
-      - name: ''
+      - name: title
         type: string
