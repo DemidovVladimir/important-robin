@@ -90,3 +90,4 @@ models:
   socss:
     type: config
     label: socss
+    file: scr/util/socialmedia.json
