@@ -95,5 +95,8 @@ models:
       - socialmedia.json
     fields:
       - name: icons
-        type: string
+        type: enum
         label: icons
+        options: []
+       - label: ''
+            value: ''
