@@ -11,5 +11,5 @@ models:
     label: about
     description: About page model
     fields:
-      - name: ''
+      - name: template
         type: string
