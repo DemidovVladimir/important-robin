@@ -91,7 +91,7 @@ models:
     type: data
     label: socs
     fields:
-      - name: socialIcons
+      - name: icon
         type: list
         items:
           type: string
