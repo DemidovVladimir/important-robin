@@ -94,7 +94,7 @@ models:
     match:
       - socialmedia.json
     fields:
-      - name: icons
+      - name: socialIcons
         type: enum
         label: icons
         options:
