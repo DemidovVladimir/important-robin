@@ -95,4 +95,4 @@ models:
         type: list
         items:
           type: string
-        label: icon, test
+        label: icon
