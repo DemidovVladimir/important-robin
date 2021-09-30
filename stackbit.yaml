@@ -35,5 +35,5 @@ models:
       - name: template
         type: string
         label: template
-      - name: ''
+      - name: slug
         type: string
