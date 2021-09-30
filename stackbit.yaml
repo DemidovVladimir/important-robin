@@ -91,4 +91,4 @@ models:
         type: string
         label: icon
       - name: url
-        type: string
+        type: url
