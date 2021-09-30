@@ -91,3 +91,4 @@ models:
     type: data
     label: social
     folder: src/util
+    match: socialmedia
