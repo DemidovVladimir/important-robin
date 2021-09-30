@@ -68,7 +68,7 @@ models:
         models:
           - cta
       - name: socialMedia
-        type: slug
+        type: markdown
         label: socialMedia
   cta:
     type: object
