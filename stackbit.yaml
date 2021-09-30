@@ -86,7 +86,7 @@ models:
     fields:
       - name: socialIcons
         type: object
-        label: ''
+        label: socialIcons
         fields: []
   socialicon:
     type: object
