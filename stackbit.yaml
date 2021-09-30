@@ -70,5 +70,6 @@ models:
     type: object
     label: cta
     fields:
-      - name: ''
+      - name: text
         type: string
+        label: ''
