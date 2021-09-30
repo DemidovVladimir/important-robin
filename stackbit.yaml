@@ -90,7 +90,7 @@ models:
   social:
     type: data
     label: social
-    folder: src/util
+    folder: i/util
     fields:
       - name: socialIcons
         type: text
