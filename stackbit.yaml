@@ -34,3 +34,4 @@ models:
     fields:
       - name: template
         type: string
+        label: template
