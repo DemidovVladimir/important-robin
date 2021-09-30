@@ -65,7 +65,8 @@ models:
       - name: cta
         type: model
         label: cta
-        models: []
+        models:
+          - cta
   cta:
     type: object
     label: cta
