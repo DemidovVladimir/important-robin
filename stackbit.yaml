@@ -73,5 +73,6 @@ models:
       - name: text
         type: string
         label: text
-      - name: ''
+      - name: ctaLink
         type: string
+        label: ''
