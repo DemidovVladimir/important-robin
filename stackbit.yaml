@@ -85,10 +85,10 @@ models:
       - socialmedia.json
     fields:
       - name: socialIcons
-        type: model
+        type: list
         label: socialIcons
-        models:
-          - socialicon
+        items:
+          type: string
   socialicon:
     type: object
     label: socialicon
