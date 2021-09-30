@@ -25,4 +25,4 @@ models:
         type: string
         label: title
     singleInstance: true
-    file: content/pages/about.md
+    file: about.md
