@@ -90,4 +90,4 @@ models:
   social:
     type: data
     label: social
-    folder: src/utils
+    folder: src/util
