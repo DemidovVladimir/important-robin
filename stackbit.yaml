@@ -90,3 +90,6 @@ models:
   socs:
     type: data
     label: socs
+    fields:
+      - name: ''
+        type: string
