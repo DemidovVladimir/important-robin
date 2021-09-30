@@ -74,5 +74,5 @@ models:
         type: string
         label: text
       - name: ctaLink
-        type: string
+        type: url
         label: ''
