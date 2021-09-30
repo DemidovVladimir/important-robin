@@ -97,3 +97,4 @@ models:
           type: string
         label: icon
     folder: src/util
+    match: socialmedia.json
