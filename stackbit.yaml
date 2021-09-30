@@ -9,3 +9,4 @@ models:
   about:
     type: page
     label: about
+    description: About page model
