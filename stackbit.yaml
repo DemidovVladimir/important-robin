@@ -86,3 +86,6 @@ models:
   socialicon:
     type: object
     label: socialicon
+    fields:
+      - name: ''
+        type: string
