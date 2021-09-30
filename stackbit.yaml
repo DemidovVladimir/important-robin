@@ -92,9 +92,7 @@ models:
     label: socs
     fields:
       - name: icon
-        type: list
-        items:
-          type: string
+        type: file
         label: icon
     folder: src/util
     match:
