@@ -24,4 +24,5 @@ models:
       - name: title
         type: string
         label: title
-    exclude: src/content/pages/index.md
+    singleInstance: true
+    file: ''
