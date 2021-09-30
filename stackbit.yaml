@@ -100,8 +100,8 @@ models:
         type: list
         label: socialIcons
         items:
-          type: object
-          fields: []
+          type: model
+          models: []
     folder: src/util
     match:
       - socialmedia.json
