@@ -87,3 +87,6 @@ models:
       - name: url
         type: url
         label: url
+  social:
+    type: data
+    label: social
