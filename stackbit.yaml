@@ -81,4 +81,8 @@ models:
     type: data
     label: socialmedia
     folder: src/util
-    match: socialmedia.json
+    match:
+      - socialmedia.json
+  socialicon:
+    type: object
+    label: socialicon
