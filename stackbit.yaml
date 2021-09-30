@@ -61,3 +61,5 @@ models:
       - name: featuredImage
         type: image
         label: featuredImage
+      - name: ''
+        type: string
