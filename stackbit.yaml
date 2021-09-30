@@ -98,5 +98,4 @@ models:
         type: enum
         label: socialIcons
         options:
-          - icon
           - url
