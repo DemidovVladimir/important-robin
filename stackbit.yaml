@@ -92,4 +92,6 @@ models:
     label: socs
     fields:
       - name: ''
-        type: string
+        type: list
+        items:
+          type: string
