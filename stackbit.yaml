@@ -81,4 +81,4 @@ models:
     type: data
     label: socialmedia
     singleInstance: true
-    file: ''
+    file: socialmedia.json
