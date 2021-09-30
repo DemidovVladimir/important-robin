@@ -51,4 +51,4 @@ models:
         type: string
         label: template
       - name: slug
-        type: string
+        type: slug
