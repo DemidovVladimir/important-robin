@@ -32,5 +32,5 @@ models:
     singleInstance: true
     file: contact.md
     fields:
-      - name: ''
+      - name: template
         type: string
