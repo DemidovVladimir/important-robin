@@ -75,4 +75,3 @@ models:
         label: text
       - name: ctaLink
         type: url
-        label: ''
