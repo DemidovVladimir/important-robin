@@ -13,6 +13,7 @@ models:
     fields:
       - name: template
         type: string
+        label: template
       - name: slug
         type: slug
       - name: title
