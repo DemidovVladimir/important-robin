@@ -95,6 +95,5 @@ models:
       - socialmedia.json
     fields:
       - name: socialIcons
-        type: object
+        type: slug
         label: socialIcons
-        fields: []
