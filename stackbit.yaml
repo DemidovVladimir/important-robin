@@ -93,7 +93,7 @@ models:
     fields:
       - name: socialIcons
         type: list
-        label: icon
+        label: socialIcons
         items:
           type: object
           fields: []
