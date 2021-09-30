@@ -80,7 +80,6 @@ models:
   socialmedia:
     type: data
     label: socialmedia
-    folder: src/util
     fields: []
   socialicon:
     type: object
