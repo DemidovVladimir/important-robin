@@ -100,3 +100,6 @@ models:
   socs:
     type: object
     label: socs
+  socss:
+    type: config
+    label: socss
