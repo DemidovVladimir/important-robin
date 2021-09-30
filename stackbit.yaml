@@ -6,6 +6,6 @@ cmsName: netlifycms
 nodeVersion: '12'
 publishDir: public
 models:
-  aboutpage:
+  about:
     type: page
     label: about
