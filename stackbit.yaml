@@ -41,3 +41,6 @@ models:
       - name: title
         type: string
         label: title
+  index:
+    type: page
+    label: index
