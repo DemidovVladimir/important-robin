@@ -81,6 +81,7 @@ models:
     type: data
     label: ''
     fields: []
+    match: del
   socialicon:
     type: object
     label: socialicon
