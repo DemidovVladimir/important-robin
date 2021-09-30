@@ -79,7 +79,7 @@ models:
         label: ctaLink
   '':
     type: data
-    label: socialmedia
+    label: ''
     fields: []
   socialicon:
     type: object
