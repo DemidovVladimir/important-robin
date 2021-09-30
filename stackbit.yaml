@@ -67,7 +67,7 @@ models:
         label: cta
         models:
           - cta
-      - name: ''
+      - name: socialMedia
         type: string
   cta:
     type: object
