@@ -73,3 +73,5 @@ models:
       - name: text
         type: string
         label: text
+      - name: ''
+        type: string
