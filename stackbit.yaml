@@ -83,6 +83,9 @@ models:
     folder: src/util
     match:
       - socialmedia.json
+    fields:
+      - name: ''
+        type: string
   socialicon:
     type: object
     label: socialicon
