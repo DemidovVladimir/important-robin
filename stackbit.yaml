@@ -98,9 +98,5 @@ models:
         type: enum
         label: icons
         options:
-          - label: icon
-            value: icon
-          - label: url
-            value: url
-          - label: ''
-            value: ''
+          - icon
+          - url
