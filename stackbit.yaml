@@ -26,3 +26,6 @@ models:
         label: title
     singleInstance: true
     file: about.md
+  contact:
+    type: page
+    label: contact
