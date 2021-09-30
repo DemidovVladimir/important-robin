@@ -98,5 +98,7 @@ models:
         type: enum
         label: socialIcons
         options:
+          - label: icon
+            value: icon
           - label: ''
             value: ''
