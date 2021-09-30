@@ -87,7 +87,8 @@ models:
       - name: socialIcons
         type: model
         label: socialIcons
-        models: []
+        models:
+          - socialicon
   socialicon:
     type: object
     label: socialicon
