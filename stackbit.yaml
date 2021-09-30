@@ -71,7 +71,6 @@ models:
         type: reference
         models:
           - socs
-          - index
         label: socialIcons
   cta:
     type: object
