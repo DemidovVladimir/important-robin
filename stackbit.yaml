@@ -68,7 +68,7 @@ models:
         models:
           - cta
       - name: socialIcons
-        type: model
+        type: reference
         label: socialIcons
         models: []
   cta:
