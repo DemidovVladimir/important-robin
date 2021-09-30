@@ -58,6 +58,7 @@ models:
         label: title
       - name: tagline
         type: string
+        label: Tagline
       - name: featuredImage
         type: image
         label: featuredImage
@@ -65,3 +66,6 @@ models:
         type: object
         fields: []
         label: cta
+  cta:
+    type: object
+    label: cta
