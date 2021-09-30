@@ -46,3 +46,6 @@ models:
     label: index
     singleInstance: true
     file: index.md
+    fields:
+      - name: ''
+        type: string
