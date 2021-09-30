@@ -91,10 +91,11 @@ models:
     type: data
     label: socs
     fields:
-      - name: ''
+      - name: socialIcons
         type: list
         items:
           type: string
         label: icon
     folder: src/util
-    match: socialmedia.json
+    match:
+      - socialmedia.json
