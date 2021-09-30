@@ -13,3 +13,5 @@ models:
     fields:
       - name: template
         type: string
+      - name: ''
+        type: string
