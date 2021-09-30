@@ -68,8 +68,10 @@ models:
         models:
           - cta
       - name: socialMedia
-        type: markdown
+        type: list
         label: socialMedia
+        items:
+          type: string
   cta:
     type: object
     label: cta
