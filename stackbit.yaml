@@ -72,4 +72,4 @@ models:
     fields:
       - name: text
         type: string
-        label: ''
+        label: text
