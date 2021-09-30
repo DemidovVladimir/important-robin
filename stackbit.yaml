@@ -68,10 +68,9 @@ models:
         models:
           - cta
       - name: socialMedia
-        type: model
-        models:
-          - socialicon
+        type: reference
         label: socialMedia
+        models: []
   cta:
     type: object
     label: cta
