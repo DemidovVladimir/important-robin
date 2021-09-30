@@ -16,5 +16,6 @@ models:
         label: template
       - name: slug
         type: slug
+        label: slug
       - name: title
         type: string
