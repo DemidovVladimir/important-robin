@@ -77,11 +77,6 @@ models:
       - name: ctaLink
         type: url
         label: ctaLink
-  social:
-    type: data
-    label: ''
-    fields: []
-    match: del
   socialicon:
     type: object
     label: socialicon
