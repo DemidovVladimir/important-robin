@@ -38,5 +38,5 @@ models:
       - name: slug
         type: slug
         label: slug
-      - name: ''
+      - name: title
         type: string
