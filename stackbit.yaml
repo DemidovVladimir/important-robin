@@ -70,6 +70,7 @@ models:
       - name: socialIcons
         type: reference
         models: []
+        label: socialIcons
   cta:
     type: object
     label: cta
