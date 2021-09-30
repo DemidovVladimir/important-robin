@@ -68,10 +68,9 @@ models:
         models:
           - cta
       - name: socialIcons
-        type: reference
-        models:
-          - socs
+        type: model
         label: socialIcons
+        models: []
   cta:
     type: object
     label: cta
