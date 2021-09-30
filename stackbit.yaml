@@ -81,4 +81,3 @@ models:
     type: data
     label: socialmedia
     singleInstance: true
-    file: ''
