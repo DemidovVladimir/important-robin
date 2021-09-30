@@ -50,3 +50,5 @@ models:
       - name: template
         type: string
         label: template
+      - name: ''
+        type: string
