@@ -70,7 +70,7 @@ models:
     type: object
     label: cta
     fields:
-      - name: text
+      - name: ctaText
         type: string
         label: text
       - name: ctaLink
