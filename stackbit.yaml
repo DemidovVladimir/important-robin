@@ -96,7 +96,6 @@ models:
         items:
           type: string
         label: icon
-        required: true
     folder: src/util
     match:
       - socialmedia.json
