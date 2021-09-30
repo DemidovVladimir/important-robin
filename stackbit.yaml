@@ -81,3 +81,4 @@ models:
     type: data
     label: socialmedia
     folder: src/util
+    match: socialmedia.json
