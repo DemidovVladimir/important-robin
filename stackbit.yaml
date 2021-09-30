@@ -20,4 +20,4 @@ models:
       - name: title
         type: string
         label: title
-    exclude: blog/**/*
+    exclude: src/**/*
