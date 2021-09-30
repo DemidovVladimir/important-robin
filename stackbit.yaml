@@ -67,7 +67,7 @@ models:
         label: cta
         models:
           - cta
-      - name: ''
+      - name: sm
         type: string
   cta:
     type: object
