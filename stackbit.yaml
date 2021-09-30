@@ -85,8 +85,9 @@ models:
       - socialmedia.json
     fields:
       - name: socialIcons
-        type: string
+        type: reference
         label: ''
+        models: []
   socialicon:
     type: object
     label: socialicon
