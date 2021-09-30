@@ -31,3 +31,6 @@ models:
     label: contact
     singleInstance: true
     file: contact.md
+    fields:
+      - name: ''
+        type: string
