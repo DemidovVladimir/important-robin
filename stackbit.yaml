@@ -68,7 +68,7 @@ models:
         models:
           - cta
       - name: sm
-        type: model
+        type: reference
         models: []
   cta:
     type: object
