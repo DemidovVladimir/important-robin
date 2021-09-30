@@ -92,9 +92,8 @@ models:
     label: socs
     fields:
       - name: icon
-        type: model
+        type: markdown
         label: icon
-        models: []
     folder: src/util
     match:
       - socialmedia.json
