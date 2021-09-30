@@ -97,3 +97,6 @@ models:
       - name: socialIcons
         type: text
         label: socialIcons
+  socs:
+    type: object
+    label: socs
