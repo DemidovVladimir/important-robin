@@ -77,3 +77,6 @@ models:
       - name: ctaLink
         type: url
         label: ctaLink
+  socialmedia:
+    type: data
+    label: socialmedia
