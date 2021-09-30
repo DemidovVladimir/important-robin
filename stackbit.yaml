@@ -21,3 +21,4 @@ models:
         type: string
         label: title
     folder: src/content
+    exclude: blog/**/*
