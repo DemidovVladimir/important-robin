@@ -60,3 +60,4 @@ models:
         type: string
       - name: featuredImage
         type: image
+        label: featuredImage
