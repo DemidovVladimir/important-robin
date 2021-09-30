@@ -59,4 +59,4 @@ models:
       - name: tagline
         type: string
       - name: featuredImage
-        type: string
+        type: image
