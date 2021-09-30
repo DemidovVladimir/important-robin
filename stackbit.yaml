@@ -71,7 +71,8 @@ models:
         type: list
         label: socialMedia
         items:
-          type: string
+          type: model
+          models: []
   cta:
     type: object
     label: cta
