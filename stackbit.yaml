@@ -100,5 +100,7 @@ models:
         options:
           - label: icon
             value: icon
+          - label: url
+            value: url
           - label: ''
             value: ''
