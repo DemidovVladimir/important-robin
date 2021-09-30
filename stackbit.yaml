@@ -40,3 +40,4 @@ models:
         label: slug
       - name: title
         type: string
+        label: title
