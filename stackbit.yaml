@@ -30,4 +30,4 @@ models:
     type: page
     label: contact
     singleInstance: true
-    file: contact
+    file: contact.md
