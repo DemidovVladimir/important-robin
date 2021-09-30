@@ -70,6 +70,7 @@ models:
       - name: socialMedia
         type: model
         models: []
+        label: socialMedia
   cta:
     type: object
     label: cta
