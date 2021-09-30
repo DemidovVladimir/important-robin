@@ -10,3 +10,6 @@ models:
     type: page
     label: about
     description: About page model
+    fields:
+      - name: ''
+        type: string
