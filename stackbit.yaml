@@ -45,4 +45,4 @@ models:
     type: page
     label: index
     singleInstance: true
-    file: ''
+    file: index.md
