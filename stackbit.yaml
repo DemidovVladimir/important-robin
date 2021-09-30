@@ -20,4 +20,4 @@ models:
       - name: title
         type: string
         label: title
-    exclude: src/**/*
+    exclude: src/content/pages/about.md
