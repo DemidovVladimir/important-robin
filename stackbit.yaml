@@ -72,7 +72,7 @@ models:
     fields:
       - name: ctaText
         type: string
-        label: text
+        label: ctaText
       - name: ctaLink
         type: url
         label: ctaLink
