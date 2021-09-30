@@ -63,9 +63,9 @@ models:
         type: image
         label: featuredImage
       - name: cta
-        type: object
-        fields: []
+        type: model
         label: cta
+        models: []
   cta:
     type: object
     label: cta
