@@ -101,6 +101,8 @@ models:
         label: socialIcons
         items:
           type: string
+      - name: ''
+        type: string
     folder: src/util
     match:
       - socialmedia.json
