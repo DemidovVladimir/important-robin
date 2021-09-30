@@ -5,10 +5,14 @@ ssgName: gatsby
 cmsName: netlifycms
 nodeVersion: '12'
 publishDir: public
+staticDir: static
+uploadDir: assets
+pagesDir: src/content/pages
 models:
   about:
     type: page
     label: about
+    layout: page
     description: About page model
     fields:
       - name: template
@@ -20,4 +24,4 @@ models:
       - name: title
         type: string
         label: title
-    folder: src/content/pages
+        
