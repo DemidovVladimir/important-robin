@@ -58,3 +58,5 @@ models:
         label: title
       - name: tagline
         type: string
+      - name: ''
+        type: string
