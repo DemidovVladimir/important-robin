@@ -96,7 +96,7 @@ models:
     fields:
       - name: socialIcons
         type: enum
-        label: icons
+        label: socialIcons
         options:
           - label: ''
             value: ''
