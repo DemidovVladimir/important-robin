@@ -47,5 +47,5 @@ models:
     singleInstance: true
     file: index.md
     fields:
-      - name: ''
+      - name: template
         type: string
