@@ -8,4 +8,4 @@ publishDir: public
 models:
   aboutpage:
     type: page
-    label: aboutpage
+    label: about
