@@ -72,7 +72,8 @@ models:
         label: socialMedia
         items:
           type: model
-          models: []
+          models:
+            - socialicon
   cta:
     type: object
     label: cta
