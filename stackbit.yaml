@@ -68,7 +68,8 @@ models:
         models:
           - cta
       - name: sm
-        type: string
+        type: model
+        models: []
   cta:
     type: object
     label: cta
