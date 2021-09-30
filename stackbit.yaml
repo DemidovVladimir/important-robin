@@ -87,9 +87,6 @@ models:
       - name: url
         type: url
         label: url
-  socs:
-    type: object
-    label: socs
   socss:
     type: config
     label: socss
