@@ -97,6 +97,5 @@ models:
       - name: icons
         type: enum
         label: icons
-        options: []
-       - label: ''
-            value: ''
+        options:
+          - icon
